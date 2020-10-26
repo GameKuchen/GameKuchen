@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GameKuchen/](https://github.com/GameKuchen/)
 
-- 📫 How to reach me **winkleryannis@gmail.com**
+- 📫 How to reach me **GameKuchen#6969**
 
 - ⚡ Fun fact **I started programming 5 months ago**
 
