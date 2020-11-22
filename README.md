@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Java and C++**
 
-- 👯 I’m looking to collaborate on [SwordCraftOnline](https://discord.gg/FXf7g5x)
+- 👯 I’m currently to collaborating on [AnytimeMC](https://discord.gg/v32p2NqJvF)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GameKuchen/](https://github.com/GameKuchen/)
 
 - 📫 How to reach me **GameKuchen#6969**
 
-- ⚡ Fun fact **I started programming 5 months ago**
+- ⚡ Fun fact **I started programming 6 months ago**
 
 
 <h3 align="left">Languages and Tools:</h3>
