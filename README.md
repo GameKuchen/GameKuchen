@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Java, C++ and C#**
 
-- 👯 I’m looking to collaborate on [Nothing](nope)
+- 👯 I’m collaborating on [TheCryptMC](https://discord.gg/98Vzxdkpp5)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GameKuchen/](https://github.com/GameKuchen/)
 
 - 📫 How to reach me **-GameKuchen-#8946**
 
-- ⚡ Fun fact **I started programming 7 months ago**
+- ⚡ Fun fact **I started programming 8 months ago**
 
 
 <h3 align="left">Languages and Tools:</h3>
