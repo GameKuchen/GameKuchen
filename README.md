@@ -9,7 +9,7 @@
 
 - <a href="https://discord.com/" target="_blank"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="discord" width="20" height="20"/> How to reach me **-GameKuchen-#8946**
 
-- ⚡ Fun fact **I started programming 8 months ago**
+- ⚡ Fun fact **I started programming 10 months ago**
 
 
 <h3 align="left">Languages and Tools:</h3>
