@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GameKuchen/](https://github.com/GameKuchen/)
 
-- <a href="https://discord.com/" target="_blank"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="discord" width="20" height="20"/> How to reach me **-GameKuchen-#8946**
+- <a href="https://discord.com/" target="_blank"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="discord" width="20" height="20"/> How to reach me **-GameKuchen-#8946** </a>
 
 - ⚡ Fun fact **I Programming is hard qwq**
 
