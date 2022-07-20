@@ -9,7 +9,7 @@
 
 - <a href="https://discord.com/" target="_blank"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="discord" width="20" height="20"/> How to reach me **-GameKuchen-#5568** </a>
 
-- ⚡ Fun fact **Programming is hard qwq**
+- ⚡ Fun fact **Lua is a Scripting Language**
 
 
 <h3 align="left">Languages and Tools:</h3>
