@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yannis</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🌱 I’m currently learning **Java, C++ and C#**
+- 🌱 I’m currently learning **Java, LUA and C#**
 
-- 👯 I’m collaborating on [TheCryptMC](https://discord.gg/98Vzxdkpp5)
+- 👯 I’m collaborating on [Overkill](https://discord.gg/rse3rMsxMz)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GameKuchen/](https://github.com/GameKuchen/)
 
-- <a href="https://discord.com/" target="_blank"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="discord" width="20" height="20"/> How to reach me **-GameKuchen-#8946** </a>
+- <a href="https://discord.com/" target="_blank"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="discord" width="20" height="20"/> How to reach me **-GameKuchen-#5568** </a>
 
 - ⚡ Fun fact **Programming is hard qwq**
 
