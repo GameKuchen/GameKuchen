@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, LUA and C#**
 
-- 👯 I’m collaborating on [Overkill](https://discord.gg/rse3rMsxMz)
+- 👯 I’m collaborating on [Nothing Currently]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/GameKuchen/](https://github.com/GameKuchen/)
 
